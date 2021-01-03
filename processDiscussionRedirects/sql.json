@@ -1,0 +1,19 @@
+{
+  "/computing/computer-programming/sql/sql-basics/pt/creating-a-table-and-inserting-data": "/computer-programming/creating-a-table-and-inserting-data/6503853165117440",
+  "/computing/computer-programming/sql/sql-basics/pt/querying-the-table": "/computer-programming/querying-the-table/6003599625945088",
+  "/computing/computer-programming/sql/sql-basics/pt/aggregating-data": "/computer-programming/aggregating-data/6288707168763904",
+  "/computing/computer-programming/sql/sql-basics/pp/project-design-a-store-database": "/computer-programming/project-design-a-store-database/5327101046816768",
+  "/computing/computer-programming/sql/more-advanced-sql-queries/pt/more-complex-queries-with-andor": "/computer-programming/more-complex-queries-with-andor/6658097900814336",
+  "/computing/computer-programming/sql/more-advanced-sql-queries/pt/querying-in-subqueries": "/computer-programming/querying-in-subqueries/6453543775109120",
+  "/computing/computer-programming/sql/more-advanced-sql-queries/pt/restricting-grouped-results-with-having": "/computer-programming/restricting-grouped-results-with-having/5619987515572224",
+  "/computing/computer-programming/sql/more-advanced-sql-queries/pt/calculating-results-with-case": "/computer-programming/calculating-results-with-case/5859227138654208",
+  "/computing/computer-programming/sql/more-advanced-sql-queries/pp/project-data-dig": "/computer-programming/project-data-dig/5169301208301568",
+  "/computing/computer-programming/sql/relational-queries-in-sql/pt/joining-related-tables": "/computer-programming/joining-related-tables/5527256273387520",
+  "/computing/computer-programming/sql/relational-queries-in-sql/pt/joining-related-tables-with-left-outer-joins": "/computer-programming/joining-related-tables-with-left-outer-joins/6657894632259584",
+  "/computing/computer-programming/sql/relational-queries-in-sql/pt/joining-tables-to-themselves-with-self-joins": "/computer-programming/joining-tables-to-themselves-with-self-joins/6092412598484992",
+  "/computing/computer-programming/sql/relational-queries-in-sql/pt/combining-multiple-joins": "/computer-programming/combining-multiple-joins/6584936765194240",
+  "/computing/computer-programming/sql/relational-queries-in-sql/pp/project-famous-people": "/computer-programming/project-famous-people/5856194908520448",
+  "/computing/computer-programming/sql/modifying-databases-with-sql/pt/changing-rows-with-update-and-delete": "/computer-programming/changing-rows-with-update-and-delete/4554973526097920",
+  "/computing/computer-programming/sql/modifying-databases-with-sql/pt/altering-tables-after-creation": "/computer-programming/altering-tables-after-creation/6560950475948032",
+  "/computing/computer-programming/sql/modifying-databases-with-sql/pp/project-app-impersonator": "/computer-programming/project-app-impersonator/6140742934331392"
+}
