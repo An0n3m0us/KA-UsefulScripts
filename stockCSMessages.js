@@ -1,3 +1,8 @@
+// Bookmark the one-liner code below!
+javascript:(function(){ function createMessage(e){message=document.createElement("p"),message.style="margin: 22px;font-size: 18px;border: solid 2px powderblue;border-radius: 5px;padding: 5px;",message.innerText=e,messagesContainer.appendChild(message)}$.getJSON("https://raw.githubusercontent.com/An0n3m0us/KA-UsefulScripts/master/stockCSMessages/exampleList.json",function(e){stockMessagesContainer=document.createElement("div"),stockMessagesContainer.style="position: fixed; bottom: 0px; left: 0px;width: 35%;height: 45%;background-color: #f0f8ffd6;overflow-y: scroll;font-size: 18px;",messagesContainer=document.createElement("div"),messagesContainer.style="width: 100%; height: 100%;",e.list0.forEach(function(e){createMessage(e)}),e.list1.forEach(function(e){createMessage(e)}),stockMessagesContainer.appendChild(messagesContainer),document.body.appendChild(stockMessagesContainer)}); })()
+// This code is meant to be used on the following page; https://www.khanacademy.org/computing/computer-programming/d
+// The code will fetch and display customizable messages that can be used as answers to questions
+
 function createMessage(text) {
     message = document.createElement("p");
     message.style = "margin: 22px;font-size: 18px;border: solid 2px powderblue;border-radius: 5px;padding: 5px;";
