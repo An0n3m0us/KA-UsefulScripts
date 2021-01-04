@@ -1,0 +1,9 @@
+{
+    "list0": [
+        "Hi (programmer name) you've done a good job on the [supplied by feedback giver], but it looks as if you are struggling with [supplied by feedback giver]. Do you need assistance?",
+        "This is a second message to demonstrate that multiple messages can be processed"
+    ],
+    "list1": [
+        "Third message using a different array of messages"
+    ]
+}
